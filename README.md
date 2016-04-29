@@ -7,6 +7,7 @@ To practice Ruby programming skills, I prepare these exercises. I'd like to shar
 
 * [01 - Name Generator](01/)
 * [02 - Multiples of 3 and 5](02/)
+* [03 - Even Fibonacci Numbers](03/)
 
 ## Contribution
 
