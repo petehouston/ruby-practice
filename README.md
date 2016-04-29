@@ -4,7 +4,8 @@ To practice Ruby programming skills, I prepare these exercises. I'd like to shar
 
 ## Table of Contents
 
-TBU
+
+* [01 - Name Generator](01/)
 
 ## Contribution
 
